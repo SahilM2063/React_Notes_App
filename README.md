@@ -2,7 +2,9 @@
 
 Welcome to **MyNotes** 📓, your solution for effortless day-to-day task management. This intuitive notes app, created with React.js and adorned with Tailwind CSS, offers a clean, modern, and user-friendly interface to help you stay organized and productive.
 
-![MyNotes App Screenshot](screenshot.png)
+<div>
+  <img src="src/screenshots/notesapp.png" alt="MyNotes App" width="100%"/>
+</div>
 
 ## Features
 

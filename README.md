@@ -1,4 +1,4 @@
-#MyNotes - Simple and Modern Day-to-Day Tasks Notes App
+# MyNotes - Simple and Modern Day-to-Day Tasks Notes App
 
 Welcome to **MyNotes** 📓, your solution for effortless day-to-day task management. This intuitive notes app, created with React.js and adorned with Tailwind CSS, offers a clean, modern, and user-friendly interface to help you stay organized and productive.
 

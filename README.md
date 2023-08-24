@@ -48,7 +48,7 @@ MyNotes utilizes the browser's local storage to ensure your notes persist even a
 
 ## 🤝 Contributions
 
-Your contributions are invaluable! Feel free to contribute by opening issues or pull requests in the [GitHub repository](https://github.com/yourusername/mynotes-app).
+Your contributions are invaluable! Feel free to contribute by opening issues or pull requests.
 
 ## 📬 Contact
 
